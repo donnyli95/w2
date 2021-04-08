@@ -17,3 +17,4 @@ request(webpage, (error, response, body) => {
 });
 
 // request is async
+// (error always comes first, response is optional? can be data as second paramter?)
