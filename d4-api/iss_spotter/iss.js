@@ -31,7 +31,7 @@ const nextISSTimesForMyLocation = function(callback) {
 
       });
     });
-  }); 
+  });
 };
 
 const fetchMyIP = function(callback) {
